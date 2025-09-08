@@ -1,0 +1,22 @@
+{
+  "name": "NecroBotz",
+  "version": "Undenfined",
+  "description": "Simple Bot Tele With node",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Necro",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^0.8.0",
+    "axios": "latest",
+    "fs": "^0.0.1-security",
+    "jimp": "^1.6.0",
+    "node-fetch": "^3.3.2",
+    "node-telegram-bot-api": "^0.66.0",
+    "path": "^0.12.7",
+    "url": "^0.11.4"
+  }
+}
