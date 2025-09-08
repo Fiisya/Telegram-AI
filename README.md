@@ -8,3 +8,5 @@ Telegram Ai Gemini
 > npm install 
 > npm start
 ```
+
+tqo izz
